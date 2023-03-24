@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['KENYAN HACKER']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = `254710504158'
 
 global.ownername = 'Didula Rashmika'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗VIBEZ KILLER'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©VIBEZ KILLER🧚.'
 
 global.ig = 'https://github.com/BlackPant'
 
